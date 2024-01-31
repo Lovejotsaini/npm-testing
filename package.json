@@ -8,6 +8,20 @@
     "build": "webpack --mode production"
   },
   "homepage": "https://github.com/owner/project#readme",
+  "contributors": [
+    {
+      "name": "Jakub Nietrzeba",
+      "url": "https://github.com/gluth"
+    },
+    {
+      "name": "Sergi Baños",
+      "url": "https://github.com/SergiBanos"
+    },
+    {
+      "name": "Nitin Mehra",
+      "url": "https://github.com/cybersultan"
+    }
+  ],
   "keywords": [
     "validator",
     "validatorjs",
